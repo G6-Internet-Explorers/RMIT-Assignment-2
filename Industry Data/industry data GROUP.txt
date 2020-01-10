@@ -1,0 +1,58 @@
+• What are the Job Titles for your group's ideal jobs? How do each of these rank in terms
+of demand from employers?
+• From your group's ideal jobs, you can identify a set of skills required for these jobs (we
+will refer to this as your group's required skill set). These can be divided into general
+skills (communication, problem solving, writing etc) and IT-specific skills (Javascript,
+SQL, etc).
+o How do the IT-specific skills in your required skill set rank in terms of demand
+from employers?
+o How do the general skills in your required skill set rank in terms of demand
+from employers?
+o What are the three highest ranked IT-specific skills which are not in your
+required skill set?
+o What are the three highest ranked general skills which are not in your required
+skill set?
+• Having looked at the Burning Glass data, has your opinion of your ideal job changed?
+Why or why not? 
+
+INDUSTRY DATA
+Job Titles - All four members of our group had different job titles. These are as follows:
+Solutions Architect - Chief Infomrations Officer - Machine Learning Engineer - Principal Data Insights Analysist.
+When comparing these job titles from the Burning Glass Data, only one member of our team had their job title on the list. The title that matched on the list was Solution Architect. 
+
+When searching using seek.com.au for the other titles and search criteria of Information and Communication Technologies, the following results were listed:
+Chief Communications Officer = 58 positions
+Machine Learning Engineer  = 190 positions
+Principal Data Insights Analysist = 1 position
+Solutions Architect, which rates as position number one on the Burning Glass Data, returned 938 positions.
+
+Of our group, the member that chose Solutions Architect is the member that has the most IT experience.
+Of our group, the member that chose Machine Learning Engineer is the youngest member on the team.
+Of our group, the member that chose Chief Communications Officer is ?????????????????????????????.
+Of our group, the member that chose Principal Data Insights Analysist is the oldest member on the team.
+
+SKILL SETS
+To gather accurate data for skill sets could not be truly accurate as each member chose a job advertisement from different sources and written by different companies. Government positions were more in-depth compared to private organizations. One advertisement in particular was very vague on the required skill sets required.
+
+On comparing the information listed in each advertisement to the Burning Glass data, we could not identify a similar skill set as no two of our groups' ideal positions listed the same IT Skills.
+
+A skill that two members positions matched however and was not listed on the Burning Glass data was Cloud Technologies.
+The position that did have the most listed data to compare was Machine Learning Engineer matching four sets. The second was Principal Data Insights Analysist and Solutions Architect, both matching only one of the listed skills. The position of Chief Informations Officer did not list any particular required IT skills.
+
+Comparing the generic skills as per Burning Glass Data to our ideal job listings, there were a lot more matches.
+Principal Data Insights Analysist matched with nine of the skill sets. This data could possibly be because this listing was a government listing.
+Chief Informations Officer matched with two of the listed skill sets.
+
+Both Machine Learning Engineer and Solutions Architect matched with only one of the generic skill sets.
+This data is interesting as the two positions with the least amount of matches to generic skills are the two highest in-demand positions compared to the survey on seek.com.au using the ICT filter.
+
+Comments on Opinion of Original Ideal Job (remember to include three highest-ranked IT-specific skills & General Skills not in your required
+skillset )
+Brian -
+
+Daria -
+
+Jeremy -
+
+Shane - I would not change my dream job based on the data because my dream job would be a job doing something that I am interested in and passionate about. Perhaps if I were younger and wishing to gain experience, I would reconsider to broaden my options to open more opportunities. In my current and also my dream job, the three highest skill sets in demand that I do not have ar the top three, SQL, JavaScript, Java. In my dream job the three highest generic skill that are not listed are, Problem Solving, Organizational Skills and Writing. I do believe however that I do possess these skills.
+

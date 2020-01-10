@@ -17,7 +17,7 @@ Why or why not?
 
 INDUSTRY DATA
 Job Titles - All four members of our group had different job titles. These are as follows:
-Solutions Architect - Chief Infomrations Officer - Machine Learning Engineer - Principal Data Insights Analysist.
+Solutions Architect - Chief Informations Officer - Machine Learning Engineer - Principal Data Insights Analysist.
 When comparing these job titles from the Burning Glass Data, only one member of our team had their job title on the list. The title that matched on the list was Solution Architect. 
 
 When searching using seek.com.au for the other titles and search criteria of Information and Communication Technologies, the following results were listed:
@@ -48,7 +48,7 @@ This data is interesting as the two positions with the least amount of matches t
 
 Comments on Opinion of Original Ideal Job (remember to include three highest-ranked IT-specific skills & General Skills not in your required
 skillset )
-Brian -
+Brian - The position of Solutions Architect has been an ambition of mine for many years and I have been fortunate to perform some of the tasks associated with the role in positions held in several companies. The particular ad referenced in my personal profile is fairly unique in that it is exactly what I wish to do, it was not chosen as an example of the kind of role I seek but the actual job I want. 
 
 Daria -
 

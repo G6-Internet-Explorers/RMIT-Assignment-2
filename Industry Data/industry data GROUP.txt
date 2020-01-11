@@ -17,31 +17,30 @@ Why or why not?
 
 INDUSTRY DATA
 Job Titles - All four members of our group had different job titles. These are as follows:
-Solutions Architect - Chief Informations Officer - Machine Learning Engineer - Principal Data Insights Analysist.
+Solutions Architect - Chief Information Officer - Machine Learning Engineer - Principal Data Insights Analysist.
 When comparing these job titles from the Burning Glass Data, only one member of our team had their job title on the list. The title that matched on the list was Solution Architect. 
 
 When searching using seek.com.au for the other titles and search criteria of Information and Communication Technologies, the following results were listed:
-Chief Communications Officer = 58 positions
+Chief Information Officer = 58 positions
 Machine Learning Engineer  = 190 positions
 Principal Data Insights Analysist = 1 position
 Solutions Architect, which rates as position number one on the Burning Glass Data, returned 938 positions.
 
 Of our group, the member that chose Solutions Architect is the member that has the most IT experience.
 Of our group, the member that chose Machine Learning Engineer is the youngest member on the team.
-Of our group, the member that chose Chief Communications Officer is ?????????????????????????????.
+Of our group, the member that chose Chief Information Officer is studying for his Bachelor of Information Technology.
 Of our group, the member that chose Principal Data Insights Analysist is the oldest member on the team.
 
 SKILL SETS
 To gather accurate data for skill sets could not be truly accurate as each member chose a job advertisement from different sources and written by different companies. Government positions were more in-depth compared to private organizations. One advertisement in particular was very vague on the required skill sets required.
 
-On comparing the information listed in each advertisement to the Burning Glass data, we could not identify a similar skill set as no two of our groups' ideal positions listed the same IT Skills.
+On comparing the information listed in each advertisement to the Burning Glass data, we could identify similar IT skills in the areas of Business Analysis, and Business Process.
 
 A skill that two members positions matched however and was not listed on the Burning Glass data was Cloud Technologies.
-The position that did have the most listed data to compare was Machine Learning Engineer matching four sets. The second was Principal Data Insights Analysist and Solutions Architect, both matching only one of the listed skills. The position of Chief Informations Officer did not list any particular required IT skills.
+Two positions that did have the most listed data to compare were Machine Learning Engineer matching and Chief Information Officer with four sets. The second was Principal Data Insights Analysist and Solutions Architect, both matching only one of the listed skills.
 
 Comparing the generic skills as per Burning Glass Data to our ideal job listings, there were a lot more matches.
-Principal Data Insights Analysist matched with nine of the skill sets. This data could possibly be because this listing was a government listing.
-Chief Informations Officer matched with two of the listed skill sets.
+Chief Information Officer matched with ten skills, Principal Data Insights Analysist matched with nine of the skill sets. 
 
 Both Machine Learning Engineer and Solutions Architect matched with only one of the generic skill sets.
 This data is interesting as the two positions with the least amount of matches to generic skills are the two highest in-demand positions compared to the survey on seek.com.au using the ICT filter.
